@@ -1,4 +1,3 @@
-# evaluation/plot_results.py — UPDATED: 4 policies
 import os
 import matplotlib
 import matplotlib.pyplot as plt
