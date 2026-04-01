@@ -1,8 +1,3 @@
-# =============================================================
-# evaluation/policies.py
-# FOUR baseline policies — Fix 1: added constraint_aware_greedy
-# =============================================================
-
 import numpy as np
 
 
