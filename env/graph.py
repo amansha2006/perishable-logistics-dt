@@ -1,5 +1,3 @@
-# graph.py
-
 import networkx as nx
 import numpy as np
 import random
@@ -58,8 +56,6 @@ class UrbanGraph:
     # Congestion Update (Smooth)
     # -------------------------------------------------
     def update_congestion(self, edge_usage):
-
-        # edge_usage: dict {(u,v): count}
 
         for u, v, data in self.graph.edges(data=True):
 
