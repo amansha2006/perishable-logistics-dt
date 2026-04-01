@@ -1,6 +1,5 @@
 """
 Fast experiment runner — reuses graph across seeds, 20 episodes per seed.
-Produces all results needed for Tier 1 fixes.
 """
 import sys, os, csv, time
 sys.path.insert(0, '.')
