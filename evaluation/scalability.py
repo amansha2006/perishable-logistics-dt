@@ -1,12 +1,3 @@
-# =============================================================
-# evaluation/scalability.py
-# Measures simulation throughput (steps/sec) for increasing
-# network sizes, on both synthetic and real-world OSM graphs.
-#
-# Usage:
-#   python -m evaluation.scalability
-# =============================================================
-
 import os
 import time
 
