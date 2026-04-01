@@ -1,7 +1,3 @@
-# =============================================================
-# evaluation/evaluate.py  — UPDATED: Fix 1 (4th policy), Fix 2 (100 nodes), Fix 3 (t-tests)
-# =============================================================
-
 import csv
 import os
 import time
